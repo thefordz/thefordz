@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi ✨
+
+<img align="center" alt="benner" src="![Banner](https://github.com/thefordz/thefordz/assets/94740024/f6d876df-92aa-4636-baa1-edf1ef47c072)">
 
 <!--
 **thefordz/thefordz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
