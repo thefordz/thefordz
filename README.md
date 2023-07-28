@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm thefordz</h1>
+<h1 align="center">✨Hi, I'm thefordz</h1>
 <h3 align="center">Game Dev, Web Dev, Youtuber</h3>
 
+<div align="center"> <img src="https://github.com/thefordz/thefordz/assets/94740024/f6d876df-92aa-4636-baa1-edf1ef47c072" alt="banner"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thefordz&label=Profile%20views&color=0e75b6&style=flat" alt="thefordz" /> </p>
 
 - this my personal portfolio website [https://thefordz.net/](https://thefordz.net/)
