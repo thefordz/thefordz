@@ -4,7 +4,7 @@
 <div align="center"> <img src="https://github.com/thefordz/thefordz/assets/94740024/f6d876df-92aa-4636-baa1-edf1ef47c072" alt="banner"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thefordz&label=Profile%20views&color=0e75b6&style=flat" alt="thefordz" /> </p>
 
-- this my personal portfolio website [https://thefordz.net/](https://thefordz.dev/)
+- this my personal portfolio website [https://thefordz.dev/](https://thefordz.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
